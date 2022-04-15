@@ -134,3 +134,5 @@ dmypy.json
 src/database
 src/config.yaml
 docker-compose.yaml
+tests/
+src/services/app/panel

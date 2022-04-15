@@ -7,7 +7,7 @@
 	<a href="https://github.com/QIN2DIM/V2RayCloudSpider/releases"><img src="https://img.shields.io/github/v/release/qin2dim/v2raycloudspider?style=for-the-badge"></a>
 	<br>
 	<a href="https://github.com/QIN2DIM/V2RayCloudSpider"><img src="https://img.shields.io/github/stars/qin2dim/v2raycloudspider?style=social"></a>
-	<a href = "https://t.me/joinchat/HlB9SQJubb5VmNU5"><img src="https://img.shields.io/static/v1?style=social&logo=telegram&label=chat&message=studio" ></a>
+	<a href = "https://t.me/+-XG8gYWVx7wxMzFh"><img src="https://img.shields.io/static/v1?style=social&logo=telegram&label=chat&message=studio" ></a>
 	<br>
 	<br>
 </div>
@@ -26,5 +26,14 @@
 
 ## 快速上手 🛴
 
-- 用户：详见 [云彩姬使用说明](https://blog.echosec.top/v2rss-docs/zh/docs/user/v2rss-cli/overview/)。
-- 玩家：Fork 项目，根据 [技术文档](https://blog.echosec.top/v2rss-docs/zh/docs/player/getting-started/overview/) 合理配置 `config.yaml` ，使用脚手架调试并部署服务。
+### 用户
+Step1: 阅读 [云彩姬使用指南](https://blog.echosec.top/v2rss-docs/zh/docs/user/v2rss-cli/overview/) 并运行 demo
+
+Step2: 期待好评 ✨
+
+### 玩家
+Step1: Fork 项目 🥂
+
+Step2: 根据 [技术文档](https://blog.echosec.top/v2rss-docs/zh/) 合理配置 config.yaml 
+
+Step3: 使用脚手架调试并部署服务
